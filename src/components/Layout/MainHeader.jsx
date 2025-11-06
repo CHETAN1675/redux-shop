@@ -7,7 +7,9 @@ import classes from "./MainHeader.module.css"
         <h1>Redux Cart</h1>
          <nav>
           <ul>
-           <li><CartButton/></li>
+           <li>
+            <CartButton/>
+            </li>
           </ul>
          </nav>
         </header>
